@@ -1,0 +1,1 @@
+schedule function netherite_freeform_enchanting:item_merge 1
